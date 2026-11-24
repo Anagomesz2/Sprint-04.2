@@ -1,0 +1,12 @@
+[
+  {
+    "id": 1,
+    "usuario": "Kimi Antonelli",
+    "texto": "Primeiro registro em disco!"
+  },
+  {
+    "id": 2,
+    "usuario": "Max Verstappen",
+    "texto": "Persistência funcionando."
+  }
+]
